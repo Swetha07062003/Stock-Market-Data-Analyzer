@@ -200,7 +200,7 @@ http://127.0.0.1:8000/docs
 
 # 📊 Dashboard Preview
 
-## 🏠 Main Dashboard
+## Price and moving charges
 
 ![Dashboard](images/AAPL_price_sma_chart.png)
 
