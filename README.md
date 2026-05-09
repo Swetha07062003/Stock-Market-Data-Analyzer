@@ -48,7 +48,8 @@ Stock-Market-Data-Analyzer/
 ├── data/
 │
 ├── db/
-│   └── stock_market.db
+│   ├── market.db
+│   └── schema.sql
 │
 ├── images/
 │   ├── AAPL_macd_chart.png
